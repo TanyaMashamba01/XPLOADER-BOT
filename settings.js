@@ -1,12 +1,12 @@
 //
 //project_name : XPLOADER 
-// @author : TYLOR
-// @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram  : heyits_tylor
-// @telegram : t.me/heyits_tylor
-// @github : heyit-tylor
-// @tiktok :hey.its_tylor
-// @whatsapp : +254796180105
+// @author : Joshuamambo1
+// @youtube : https://www.youtube.com/@Joshuamambo1
+// @instagram  : Joshuamambo1 
+// @telegram : t.me/JoshKing01
+// @github : tanyaMashamba01
+// @tiktok : Joshuamambo1 
+// @whatsapp : +263716729222
 //*
 //*
 //=================================================//
@@ -16,38 +16,38 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //=================================================//
 
-global.ytname = process.env.YT_NAME || "YT: heyits_tylor"
+global.ytname = process.env.YT_NAME || "YT: Joshuamambo1"
 //Enter your YouTube channel name
 
 //=================================================//
 
-global.socialm = process.env.MEDIA || "GitHub: Dark-Xploit"
+global.socialm = process.env.MEDIA || "GitHub: tanyaMashamba01"
 //Enter your GitHub or Instagram username 
 
 //=================================================//
 
-global.location = process.env.GL_INFO || "Kenya, Nairobi"
+global.location = process.env.GL_INFO || "Zimbabwe, Gweru"
  //Type your location location
 
 //=================================================//
 
-global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭' 
+global.botname = process.env.BOT_NAME || 'Joshuamambo1new' 
 //Your desured bot name
 
 //=================================================//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
+global.ownernumber = process.env.OWNER_NUMBER || '263716729222'
 //Type your number here
 
 //=================================================//
 
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Joshuamambo1new' 
 //Type your name here
 
 //=================================================//
 
-global.websitex = process.env.YT_LINK || "https://youtube.com/@heyits_tylor"
+global.websitex = process.env.YT_LINK || "https://youtube.com/@Joshuamambo1"
 
 //=================================================//
 
@@ -63,12 +63,12 @@ global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭
 
 //=================================================//
 
-global.packname = process.env.PACK_NAME || "Xploader"
+global.packname = process.env.PACK_NAME || "Joshuamambo"
 //The sticker pack name 
 
 //=================================================//
 
-global.author = process.env.AUTHOR_NAME || "Bot"
+global.author = process.env.AUTHOR_NAME || "Joshuamambo1Bot"
 //The sticker author name 
 
 //=================================================//
@@ -77,7 +77,7 @@ global.creator = process.env.GL_DEVS || "254754783972@s.whatsapp.net"
 
 //=================================================//
 
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || '/'
 //Set your desired prefix
 
 //=================================================//
@@ -91,7 +91,7 @@ global.hituet = 0
 
 //=================================================//
 
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" //Don't edit this if you don't know!
+global.timezones = process.env.TIMEZONE || "Africa/Zimbabwe" //Don't edit this if you don't know!
 
 //=================================================//
 
